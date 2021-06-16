@@ -8,4 +8,5 @@
 		printf("track record\n");
 		printf("the last line\n");
 		return c;
+		int a;
 	}
